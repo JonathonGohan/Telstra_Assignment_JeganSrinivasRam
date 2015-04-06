@@ -1,0 +1,6 @@
+D:\Proficiency Test\ChangeDirectory\Question2ChangeDirectory\bin\Debug\Question2ChangeDirectory.exe.config
+D:\Proficiency Test\ChangeDirectory\Question2ChangeDirectory\bin\Debug\Question2ChangeDirectory.exe
+D:\Proficiency Test\ChangeDirectory\Question2ChangeDirectory\bin\Debug\Question2ChangeDirectory.pdb
+D:\Proficiency Test\ChangeDirectory\Question2ChangeDirectory\obj\Debug\Question2ChangeDirectory.exe
+D:\Proficiency Test\ChangeDirectory\Question2ChangeDirectory\obj\Debug\Question2ChangeDirectory.pdb
+D:\Proficiency Test\ChangeDirectory\Question2ChangeDirectory\obj\Debug\Question2ChangeDirectory.csprojResolveAssemblyReference.cache

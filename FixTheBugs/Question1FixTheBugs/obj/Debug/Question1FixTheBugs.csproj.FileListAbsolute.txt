@@ -1,0 +1,6 @@
+D:\Proficiency Test\FixTheBugs\Question1FixTheBugs\bin\Debug\Question1FixTheBugs.exe.config
+D:\Proficiency Test\FixTheBugs\Question1FixTheBugs\bin\Debug\Question1FixTheBugs.exe
+D:\Proficiency Test\FixTheBugs\Question1FixTheBugs\bin\Debug\Question1FixTheBugs.pdb
+D:\Proficiency Test\FixTheBugs\Question1FixTheBugs\obj\Debug\Question1FixTheBugs.exe
+D:\Proficiency Test\FixTheBugs\Question1FixTheBugs\obj\Debug\Question1FixTheBugs.pdb
+D:\Proficiency Test\FixTheBugs\Question1FixTheBugs\obj\Debug\Question1FixTheBugs.csprojResolveAssemblyReference.cache
